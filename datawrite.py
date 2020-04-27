@@ -14,4 +14,3 @@ for i in range(20):
     train.to_csv(filename)
     t2=time.time()
     print(t2-t1)
-
